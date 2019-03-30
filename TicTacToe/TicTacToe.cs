@@ -1,7 +1,7 @@
 ﻿using System;
 using tictactoe;
 
-namespace ConsoleApp1
+namespace TicTacToe
 {
     class TicTacToe
     {

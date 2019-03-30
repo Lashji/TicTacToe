@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ConsoleApp1;
+using TicTacToe;
 
 namespace tictactoe
 {
